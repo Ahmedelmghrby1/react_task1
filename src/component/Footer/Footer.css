@@ -1,0 +1,14 @@
+.fot_top{
+    background-color: #2C3E50;
+    color: white;
+}
+
+.list_item{
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.fot_bot{
+    background-color: #1A252F;
+    color: white;
+}

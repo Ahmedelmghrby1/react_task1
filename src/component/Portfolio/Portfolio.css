@@ -1,0 +1,30 @@
+.portfolio{
+    margin-top: 86px;
+}
+.titel{
+    color: #2C3E50;
+}
+.layer{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #1ab99eda;
+    opacity: 0;
+    transition: all 1s;
+}
+.layer_icon{
+    font-size: 6em;
+
+}
+.layer:hover{
+    opacity: 1;
+}
+.img_layer{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #1ab99eda;
+    z-index: 99;
+}
